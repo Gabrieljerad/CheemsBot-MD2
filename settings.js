@@ -24,26 +24,26 @@ global.APIKeys = {
 global.owner = ['254114035678']
 global.premium = ['254114035678']
 global.ownernomer = '254114035678'
-global.ownername = '🦄Gabby bot
+global.ownername = '😉Gabby'
 global.botname = 'Gabby Bot MD V2'
 global.footer = 'Gabby Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
+global.ig = 'https://github.com/Gabrieljerad'
 global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
+global.sc = 'https://github.com/Gabrieljerad/CheemsBot-MD2'
 global.myweb = 'https://youtu.be/imFIX-Wrt3s'
 global.packname = 'Gabby Bot'
-global.author = '🦄Gabby cool
+global.author = 'Gabby'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Gabby my Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    success: 'like a boss ✓',
+    admin: 'Msee ongea na maadmin wakupee cheo😂💔!',
+    botAdmin: 'zii adi niwe admin🚮!',
+    owner: 'chunga hii command ni ya Gabby pekee!',
+    group: 'msee ii ni ya Groups!',
+    private: 'njoo Pc/dm yangu!',
+    bot: 'msee ii ni yangu tu..',
     wait: 'chillax kiasi...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
